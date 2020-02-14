@@ -17,7 +17,7 @@
 
 - Polynomial Regression
 
-  ![image-20200214212533117](imgs/poly_degrees.png)
+  ![image-20200214212717763](imgs/degrees_poly.png)
 
 - Learning Curves 
 
